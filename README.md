@@ -1,5 +1,19 @@
 # 🎮 Dark Fantasy RPG (Co-op | 3D Isometric)
 
+## 🖼️ Скриншоты
+
+### Боевая система
+![Бой](Screenshots/Combat.jpg)
+
+### Инвентарь
+![Инвентарь](Screenshots/InventoryWindow.jpg)
+
+### Окно персонажа
+![Окно персонажа](Screenshots/StatsWindow.jpg)
+
+### Сцена
+![Сцена](Screenshots/SceneWindow.jpg)
+
 > ⚠️ **Проект находится в активной разработке.**  
 > Механики, интерфейс и структура могут меняться.  
 > Следите за обновлениями в этом репозитории.
